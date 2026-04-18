@@ -7,7 +7,7 @@ Me apasiona profundamente el mundo de la programación y la tecnología. Soy un 
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías
 Estas son algunas de las tecnologías con las que trabajo y enseño:
 
 * **Lenguajes:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
