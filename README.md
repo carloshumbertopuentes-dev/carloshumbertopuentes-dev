@@ -1,2 +1,2 @@
-## Carlos Humberto Cruz Puentes 👋
+## Carlos Humberto 👋
 
